@@ -1,2 +1,2 @@
 # ngen
-This is data collected at fieldtrips from 2019 to 2022
+This is data from fieldtrips made in 2019 - 2022 to Cote-d'Ivoire, Djonkro Village.
