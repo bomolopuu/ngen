@@ -1,4 +1,5 @@
 \_sh v3.0  1285 Mande general
+\_DateStampHasFourDigitYear
 
 \le ābálá
 \leor
@@ -1211,15 +1212,14 @@
 \key
 \dfr восток
 \smr
-\dff 
-est
+\dff est
 \smf
 \dfe east
 \sme
 \gr слева
 \gf à.gauche
 \ge left
-\dt 29/Jan/2022
+\dt 28/May/2021
 
 \le bɛ̀ŋ̀
 \leor
@@ -1389,6 +1389,29 @@ est
 \ge soft
 \check +
 \dt 27/May/2021
+
+\le bɛtɛɛ-bɛtɛɛ
+\leor
+\sa
+\src S
+\pf
+\pff
+\pfr
+\ps adj
+\psr
+\ms
+\key
+\dfr дешевый
+\smr
+\dff moins chére
+\smf
+\dfe cheap
+\sme
+\gr дешевый
+\gf moins.chére
+\ge cheap
+\check
+\dt 04/Jul/2022
 
 \le bɛ̀wō
 \leor
@@ -2064,6 +2087,28 @@ est
 \gf margouillat
 \ge agama
 \dt 18/Mar/2021
+
+\le bɔ́ŋ́zōnɛ́
+\leor
+\sa
+\src AAI
+\pf
+\pff
+\pfr
+\ps n
+\psr
+\ms
+\dfr джинн
+\smr
+\dff genie
+\smf
+\dfe genie
+\sme
+\sme
+\gr джинн
+\gf genie
+\ge genie
+\dt 06/Oct/2022
 
 \le bɔ̀tɔ́
 \leor
@@ -3473,6 +3518,28 @@ est
 \ge arrow.head
 \dt 10/Mar/2021
 
+\le cìsíɛ́
+\leor
+\sa
+\src Y
+\pf
+\pff
+\pfr
+\ps n
+\psr
+\ms
+\key
+\dfr понедельник
+\smr
+\dff lundi
+\smf
+\dfe Monday
+\sme
+\gr понедельник
+\gf lundi
+\ge Monday
+\dt 20/Jan/2022
+
 \le císīò cḭ̄
 \leor
 \sa
@@ -4051,6 +4118,28 @@ est
 \ge work
 \dt 10/Mar/2021
 
+\le dīŋ̀ bo
+\leor
+\sa
+\src AAI
+\pf
+\pff
+\pfr
+\ps v
+\psr
+\ms
+\key
+\dfr работать
+\smr
+\dff travailler
+\smf
+\dfe to.work
+\sme
+\gr работать
+\gf travailler
+\ge to.work
+\dt 20/Oct/2022
+
 \le dīŋmā̰
 \leor
 \sa
@@ -4440,7 +4529,7 @@ est
 \pff
 \pfr
 \ps v
-\psr
+\psr глаг
 \ms
 \key
 \dfr измерять
@@ -4452,7 +4541,7 @@ est
 \gr измерять
 \gf mesurer
 \ge measure
-\dt 27/May/2021
+\dt 14/Jan/2022
 
 \le dɔ̰́ŋ̀wò
 \leor
@@ -6173,7 +6262,7 @@ est
 \le gòlòlɛ̄
 \leor
 \sa
-\src
+\src S, AA
 \pf
 \pff
 \pfr
@@ -6190,7 +6279,7 @@ est
 \gr собирать
 \gf ramasser
 \ge gather
-\dt 11/Sep/2014
+\dt 06/Feb/2022
 
 \le gòŋ̀
 \leor
@@ -8367,6 +8456,38 @@ est
 \dt 11/Mar/2021
 
 \le kāngálā
+\le kàŋ̀
+\leor
+\sa
+\src S
+\src Y
+\pf
+\pff
+\pfr
+\ps n
+\psr
+\ms
+\key
+\dfr куропатка
+\dfr груз
+\smr
+\dff perdrix
+\dff chargement
+\smf
+\dfe partridge
+\dfe load
+\sme
+\gr куропатка
+\gf perdrix
+\ge partridge
+\dt 23/May/2021
+\gr груз
+\gf chargement
+\ge load
+\dt 11/Mar/2021
+
+\le kàŋ̀
+\le kāŋgálā
 \leor
 \sa
 \src S
@@ -8377,38 +8498,23 @@ est
 \psr
 \ms
 \key
+\dfr груз
 \dfr куропатка
 \smr
+\dff chargement
 \dff perdrix
 \smf
-\dfe partridge
-\sme
-\gr куропатка
-\gf perdrix
-\ge partridge
-\dt 23/May/2021
-
-\le kàŋ̀
-\leor
-\sa
-\src Y
-\pf
-\pff
-\pfr
-\ps n
-\psr
-\ms
-\key
-\dfr груз
-\smr
-\dff chargement
-\smf
 \dfe load
+\dfe partridge
 \sme
 \gr груз
 \gf chargement
 \ge load
 \dt 11/Mar/2021
+\gr куропатка
+\gf perdrix
+\ge partridge
+\dt 28/Jan/2022
 
 \le kàŋkūnɛ̄
 \leor
@@ -8482,6 +8588,28 @@ est
 \gf Ando
 \ge Ando
 \dt 08/Aug/2021
+
+\le kawala
+\leor
+\sa
+\src AAI
+\pf
+\pff
+\pfr
+\ps n
+\psr
+\ms
+\key
+\dfr старший брат
+\smr
+\dff grand frère
+\smf
+\dfe elder brother
+\sme
+\gr старший.брат
+\gf grand.frère
+\ge elder.brother
+\dt 06/Oct/2022
 
 \le kà̰
 \leor
@@ -11557,6 +11685,7 @@ est
 \pff
 \pfr
 \ps
+\ps conj
 \psr
 \ms
 \key
@@ -12047,7 +12176,7 @@ est
 \check +
 \dt 24/May/2021
 
-\le ná̰má̰
+\le námá
 \leor
 \sa
 \src S
@@ -12068,6 +12197,7 @@ est
 \gf tricher
 \ge cheat
 \dt 27/May/2021
+\dt 08/Nov/2022
 
 \le nā̰ná̰gɔ̄ŋ̄
 \leor
@@ -12449,10 +12579,10 @@ est
 \check +
 \dt 27/May/2021
 
-\le nṵ̀nɛ̰-̄āzɔ̀
+\le nṵ̀nɛ̰-āzɔ̀
 \leor
 \sa
-\src
+\src A
 \pf
 \pff
 \pfr
@@ -12469,7 +12599,7 @@ est
 \gr приносить
 \gf apporter
 \ge bring
-\dt 27/May/2021
+\dt 06/Oct/2022
 
 \le nṵ́ŋ́
 \leor
@@ -12726,6 +12856,29 @@ est
 \gf étoile
 \ge star
 \dt 11/Mar/2021
+
+\le ɲira
+\leor
+\sa
+\src AAI
+\trr
+\pf
+\pff
+\pfr
+\ps v
+\psr
+\ms
+\key
+\dfr спускать, выпускать
+\smr
+\dff descendre
+\smf
+\dfe
+\sme
+\gr спускать, выпускать
+\gf descendre
+\ge
+\dt 06/Oct/2022
 
 \le ɲḭ́ŋ̀
 \leor
@@ -14573,11 +14726,11 @@ est
 \le sámú
 \leor
 \sa
-\src Y
+\src Y, AA
 \pf
 \pff
 \pfr
-\ps
+\ps n
 \psr
 \ms
 \key
@@ -14591,7 +14744,7 @@ est
 \gf mangouste
 \ge mongoose
 \check +
-\dt 29/Apr/2021
+\dt 28/Jan/2022
 
 \le sándɛ́
 \leor
@@ -16656,6 +16809,29 @@ est
 \ge name
 \dt 17/Mar/2021
 
+\le tɔ́ŋ́ pē
+\leor
+\sa
+\src tx
+\pf
+\pff
+\pfr
+\ps v
+\psr
+\ms
+\key
+\dfr критиковать
+\smr
+\dff critiquer
+\smf
+\dfe
+\sme
+\gr критиковать
+\gf critiquer
+\ge
+\check
+\dt 17/Apr/2022
+
 \le tɔ̀ɔ̄
 \leor
 \sa
@@ -17545,7 +17721,7 @@ est
 \pf
 \pff
 \pfr
-\ps
+\ps n
 \psr
 \ms
 \key
@@ -17559,7 +17735,7 @@ est
 \gf problème.
 \ge problem
 \check +
-\dt 19/Mar/2021
+\dt 13/Feb/2022
 
 \le wēlēpèlɛ̀
 \leor
@@ -17611,6 +17787,25 @@ est
 \gf voix
 \ge voice
 \dt 11/May/2021
+
+\le wéŋ́
+\leor
+\sa
+\src AAI
+\pf
+\pff
+\pfr
+\ps n
+\psr
+\key
+\dfr ступа
+\smr
+\dff pilon
+\smf
+\dfe pounder
+\sme
+\sme
+\dt 12/Oct/2022
 
 \le wɛ̀
 \leor
@@ -19455,7 +19650,7 @@ est
 \gr ствол
 \gf rondin
 \ge trunk
-\dt 17/Mar/2021
+\dt 14/Jan/2022
 
 \le yìrì-kōtō
 \leor
